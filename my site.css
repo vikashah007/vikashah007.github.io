@@ -1,0 +1,86 @@
+body{
+    margin:0 ;
+    text-align: center;
+    
+}
+.topmost{
+    background-color: darkgray;
+    display:inline-flex ;
+    width: 100%;
+    }
+.topmost p {
+   margin:1%;
+   padding: 30px;
+   color: aliceblue;
+   
+
+}
+.topmost p :hover{
+    font-size: 130%;
+    background-color: rgb(31, 179, 129);
+    text-decoration: none;
+}
+.btn{
+   padding-left: 10%;
+   
+}
+.top-container p{
+    font-family: serif;
+    margin: 0;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Smooch', cursive;
+    
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+   
+    
+
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+
+    } 
+.mypic{
+   
+    width: 100px;
+    height: 100px;
+    }       
+    
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+        bottom: 300px;
+    }
+.middle-container{
+    background-color:#e4f9f5 ;
+   
+       
+    
+}
+.middle-container p{
+    margin: 0;
+}
+.bottom-container{
+    background-color: aqua;
+    text-align: center;
+    
+    
+    
+}
+.bottom-container p{
+    display: inline-flex;
+    padding: 20px;
+}
+.bottom-container h2{
+    margin: 0;
+} 
+
+    
